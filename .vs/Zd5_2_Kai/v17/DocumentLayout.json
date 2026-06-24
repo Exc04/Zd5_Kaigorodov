@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\styles\\pg2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\styles\\pg2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\styles\\reg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\styles\\reg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\styles\\pg1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\styles\\pg1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|c:\\users\\exc\\desktop\\zd5_2_kai\\zd5_2_kai\\zd5_2_kai\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{7D4A17E0-B64D-4226-8E86-2DB09CFBCE73}|Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai.csproj|solutionrelative:zd5_2_kai\\zd5_2_kai\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\App.xaml.cs",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T05:40:21.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pg2.css",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg2.css",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg2.css",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg2.css",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg2.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-24T05:18:32.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pg1.css",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg1.css",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg1.css",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg1.css",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Pg1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-24T05:18:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml.cs",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T19:51:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reg.css",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Reg.css",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Reg.css",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Reg.css",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Styles\\Reg.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-23T19:36:48.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T19:11:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml.cs",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Page1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T19:46:35.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\MainPage.xaml",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T19:38:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml",
+              "RelativeDocumentMoniker": "Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml",
+              "ToolTip": "C:\\Users\\exc\\Desktop\\Zd5_2_Kai\\Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml",
+              "RelativeToolTip": "Zd5_2_Kai\\Zd5_2_Kai\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-23T19:11:10.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

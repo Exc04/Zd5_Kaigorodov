@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zd5_2_Kai.MainPage">
+
+    <CarouselPage.Children>
+
+        <!-- ЭКРАН 2: Статус успешного входа -->
+        <views:Page1 />
+        <!-- ЭКРАН 3: Интерактивный пульт настроек -->
+        <views:Page2 />
+    </CarouselPage.Children>
+
+</CarouselPage>

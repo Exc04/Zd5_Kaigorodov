@@ -1,0 +1,2 @@
+C:\Users\exc\Desktop\Zd5_2_Kai\Zd5_2_Kai\Zd5_2_Kai\obj\Debug\netstandard2.0\Zd5_2_Kai.csproj.AssemblyReference.cache
+C:\Users\exc\Desktop\Zd5_2_Kai\Zd5_2_Kai\Zd5_2_Kai\obj\Debug\netstandard2.0\Zd5_2_Kai.GeneratedMSBuildEditorConfig.editorconfig

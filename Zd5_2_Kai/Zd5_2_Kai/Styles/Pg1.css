@@ -1,0 +1,37 @@
+﻿/* Крупный заголовок успешного входа (на темном фоне) */
+.success-title-dark {
+    color: #4A90D9;
+    font-size: 26;
+    text-align: center;
+}
+
+/* Подзаголовок пользователя (на темном фоне) */
+.user-subtitle-dark {
+    color: #ffffff;
+    font-size: 25;
+    text-align: center;
+}
+
+/* СИНЯЯ кнопка (как STATIC) */
+.capsule-blue {
+    background-color: #4A90D9;
+    color: #ffffff;
+    height: 50;
+    width: 280;
+    border-radius: 25;
+    font-size: 18;
+    text-transform: none;
+}
+
+/* СИНЯЯ ОБВОДКА (белая кнопка с синей обводкой) */
+.capsule-blue-outline {
+    background-color: #ffffff;
+    color: #4A90D9;
+    height: 50;
+    width: 280;
+    border-radius: 25;
+    font-size: 18;
+    text-transform: none;
+    border-width: 2;
+    border-color: #4A90D9;
+}

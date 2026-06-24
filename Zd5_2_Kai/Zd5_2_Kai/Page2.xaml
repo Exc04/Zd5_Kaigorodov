@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zd5_2_Kai.Page2"
+             x:Name="ToPage"
+             BackgroundColor="#2c3036">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/Styles/Pg2.css" />
+    </ContentPage.Resources>
+
+    <Grid VerticalOptions="Fill" HorizontalOptions="Fill" Padding="30,40,30,40">
+
+        <ScrollView VerticalOptions="Fill" HorizontalOptions="Fill">
+            <StackLayout Spacing="30" VerticalOptions="Start">
+
+                <!-- ЗАГОЛОВОК  -->
+                <Label Text="STATIC" 
+                       StyleClass="page-title-dark" 
+                       HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center" />
+
+                <!-- КНОПКИ -->
+                <StackLayout Spacing="15" HorizontalOptions="Center" Margin="0,20,0,20">
+                    <Button x:Name="BtnStatic" Text="STATIC" StyleClass="capsule-blue" Clicked="OnStaticClicked" />
+                    <Button x:Name="BtnHover" Text="HOVER" StyleClass="capsule-blue" Clicked="OnHoverClicked" />
+                    <Button x:Name="BtnPressed" Text="PRESSED" StyleClass="capsule-blue" Clicked="OnPressedClicked" />
+                </StackLayout>
+
+                <!-- ПОЛЗУНОК -->
+                <StackLayout Spacing="10" HorizontalOptions="FillAndExpand" Margin="0,10,0,10">
+                    <Label Text="Яркость эффектов" StyleClass="slider-title-light" HorizontalOptions="Center"/>
+                    <Slider x:Name="EffectsSlider" 
+                            Minimum="0" 
+                            Maximum="100" 
+                            ThumbColor="#4A90D9" 
+                            MinimumTrackColor="#4A90D9"
+                            MaximumTrackColor="#E0E0E0"
+                            Margin="10,0"
+                            ValueChanged="OnSliderValueChanged" />
+                </StackLayout>
+
+                <!-- ON / OFF ПЕРЕКЛЮЧАТЕЛИ -->
+                <StackLayout Spacing="15" HorizontalOptions="Center" Margin="0,20,0,0">
+                    <Label Text="ON / OFF" StyleClass="switch-title-light" HorizontalOptions="Center" />
+
+                    <Grid ColumnSpacing="40" HorizontalOptions="Center">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+
+                        <StackLayout Orientation="Horizontal" Grid.Column="0" VerticalOptions="Center">
+                            <Label Text="ON" StyleClass="switch-label-light" VerticalOptions="Center" Margin="0,0,8,0" />
+                            <Switch x:Name="SwitchOn" Scale="1.2" OnColor="#4A90D9" Toggled="OnSwitchToggled" />
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal" Grid.Column="1" VerticalOptions="Center">
+                            <Label Text="OFF" StyleClass="switch-label-light" VerticalOptions="Center" Margin="0,0,8,0" />
+                            <Switch x:Name="SwitchOff" Scale="1.2" OnColor="#2c3036" ThumbColor="#FFFFFF" Toggled="OnSwitchToggled" />
+                        </StackLayout>
+                    </Grid>
+                </StackLayout>
+
+                <!-- БЛОК ВЫВОДА РЕЗУЛЬТАТОВ -->
+                <Frame StyleClass="output-box-dark"
+                       Padding="15" 
+                       HasShadow="True" 
+                       CornerRadius="8"
+                       WidthRequest="320"
+                       HeightRequest="100"
+                       HorizontalOptions="Center"
+                       Margin="0,20,0,0">
+                    <Label x:Name="ResultLabel" 
+                           Text="Ожидание..." 
+                           StyleClass="result-text-light" 
+                           HorizontalTextAlignment="Center" />
+                </Frame>
+
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
