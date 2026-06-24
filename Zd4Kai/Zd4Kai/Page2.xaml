@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zd4Kai.Page2"
+           BackgroundColor="#F5F5F5">
+    <StackLayout Padding="20" Spacing="15">
+
+        <Label Text="Центробанк РФ:" FontSize="Medium" TextColor="#333333" FontAttributes="Bold"/>
+
+        <Frame BackgroundColor="White" CornerRadius="10" Padding="15" HasShadow="True">
+            <StackLayout>
+                <Label x:Name="USD" FontSize="Large" TextColor="#2196F3"/>
+                <Label x:Name="EUR" FontSize="Large" TextColor="#2196F3"/>
+            </StackLayout>
+        </Frame>
+
+        <BoxView HeightRequest="1" BackgroundColor="#DDDDDD" Margin="0,10,0,10"/>
+
+        <Label Text="Выберите дату:" FontSize="Medium" TextColor="#333333"/>
+        <DatePicker x:Name="myDatePicker" FontSize="Medium" DateSelected="OnDateSelected"
+                    BackgroundColor="White"/>
+
+    </StackLayout>
+</ContentPage>

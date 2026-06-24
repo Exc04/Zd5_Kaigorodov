@@ -1,0 +1,17 @@
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.csproj.AssemblyReference.cache
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.AssemblyInfoInputs.cache
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.AssemblyInfo.cs
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.csproj.CoreCompileInputs.cache
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\bin\Debug\netstandard2.0\Zd4Kai.deps.json
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\bin\Debug\netstandard2.0\Zd4Kai.dll
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\bin\Debug\netstandard2.0\ref\Zd4Kai.dll
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\bin\Debug\netstandard2.0\Zd4Kai.pdb
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.dll
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\refint\Zd4Kai.dll
+C:\Users\exc\Desktop\Zd4Kai\Zd4Kai\Zd4Kai\obj\Debug\netstandard2.0\Zd4Kai.pdb

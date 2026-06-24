@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zd4Kai.Page1"
+           BackgroundColor="#F5F5F5">
+    <StackLayout Padding="20" Spacing="15">
+
+        <Label Text="Сумма кредита:" FontSize="Medium" TextColor="#333333"/>
+        <Entry x:Name="CreditSum" Keyboard="Numeric" TextChanged="OnDataChanged" 
+               BackgroundColor="White" Placeholder="Введите сумму"/>
+
+        <Label Text="Срок (месяцев):" FontSize="Medium" TextColor="#333333"/>
+        <Entry x:Name="TimeCredit" Keyboard="Numeric" TextChanged="OnDataChanged"
+               BackgroundColor="White" Placeholder="Введите срок"/>
+
+        <Label Text="Вид платежа:" FontSize="Medium" TextColor="#333333"/>
+        <Picker x:Name="TypePicker" SelectedIndex="0" SelectedIndexChanged="OnDataChanged"
+                BackgroundColor="White"/>
+
+        <Label Text="Процентная ставка:" FontSize="Medium" TextColor="#333333"/>
+        <Slider x:Name="RateSlider" Minimum="0" Maximum="100" Value="50" ValueChanged="OnDataChanged"
+                ThumbColor="#2196F3" MinimumTrackColor="#2196F3" MaximumTrackColor="#E0E0E0"/>
+        <Label x:Name="RateValue" FontSize="Small" TextColor="#2196F3" HorizontalTextAlignment="Center"/>
+
+        <BoxView HeightRequest="1" BackgroundColor="#DDDDDD" Margin="0,10,0,10"/>
+
+        <Label Text="РЕЗУЛЬТАТ:" FontSize="Medium" TextColor="#2196F3" FontAttributes="Bold"/>
+        <Label x:Name="Payment" FontSize="Medium" TextColor="#333333"/>
+        <Label x:Name="Sum" FontSize="Medium" TextColor="#333333"/>
+        <Label x:Name="Overpayment" FontSize="Medium" TextColor="#333333"/>
+
+    </StackLayout>
+</ContentPage>
